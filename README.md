@@ -64,6 +64,6 @@ Verifica che le immagini non siano corrotte e siano nel formato giusto (ad esemp
 
 Test.py
 
-Questo è un semplice programma Python che verifica la corretta installazione delle librerie. Una volta eseguito, importa le librerie necessarie e stampa le versioni per confermare che tutto sia configurato correttamente. Utile prima di eseguire lo script principale
+Questo è un semplice programma Python che verifica la corretta installazione delle librerie. Una volta eseguito, importa le librerie necessarie e stampa le versioni per confermare che tutto sia configurato correttamente. Utile prima di eseguire lo script principale.
  
 
